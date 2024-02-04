@@ -29,7 +29,7 @@ Build and publish a dashboard to visualize landing data interactively.
 ## 8. Machine Learning Prediction
 Creates a machine learning pipeline to predict if the first stage will land given the data from the preceding labs.
 create a machine learning pipeline to predict if the first stage will land.
-Find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression.
+Find the best Hyperparameter for kNN, SVM, Classification Trees, and Logistic Regression.
 
 
 
